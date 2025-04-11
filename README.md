@@ -26,8 +26,7 @@
 ### 实验效果
 
 在 MovieLens 数据集上，相较于传统的基于用户/物品的协同过滤，DMCF 在以下指标上取得显著提升：
-![P-R曲线](image/PR.jpg)
-
+<img src="image/PR.jpg" alt="P-R曲线" width="500"/><img src="image/PR.jpg" alt="P-R曲线" width="500"/>
 
 # 项目环境与依赖说明
 
